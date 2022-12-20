@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/DhruvSrikanth">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Dhruv+Srikanth;Deep+Learning+%7C+High-Performance+Computing+%7C+Software+Engineering" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=500&multiline=true&width=500&height=80&lines=Dhruv+Srikanth;Deep+Learning+%7C+High-Performance+Computing+%7C+Engineering" alt="Typing SVG" />
 </a>
 <br/>
 
@@ -23,3 +23,4 @@
 * Research at the UChicago Booth Center for Applied Artificial Intelligence.
 
 * Areas of interest: Deep Learning, Game Theory, Computational Learning Theory, High Performance Computing. Specifically, generative frameworks (e.g. GAN, VAE, DDPM), energy-based models (EBMs) and self-supervised learning (SSL).
+
