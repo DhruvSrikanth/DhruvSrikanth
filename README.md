@@ -49,7 +49,7 @@
 
 |Title | Technologies|
 |--|--|
-| [CUDANN (Distributed Deep Learning Framework (accelerated on NVIDIA GPUs)] (https://github.com/DhruvSrikanth/CUDANN)| |
+| [CUDANN (Distributed Deep Learning Framework (accelerated on NVIDIA GPUs)](https://github.com/DhruvSrikanth/CUDANN)| |
 | [FastConv (Multithreaded GPU CUDA kernels for Convolution)] (https://github.com/DhruvSrikanth/FastConv) | | 
 | [Ray Tracing (using Monte-Carlo Algorithm on GPU Accelerators)] (https://github.com/DhruvSrikanth/Monte-Carlo-Ray-Tracing) | |
 | [Advection Diffusion Simulation (Multrithreaded, Shared Memory Parallelism, Distributed Memory Parallelism)] (https://github.com/DhruvSrikanth/N-Body-Simulation)] (https://github.com/DhruvSrikanth/Advection-Diffusion-Simulation) | |
