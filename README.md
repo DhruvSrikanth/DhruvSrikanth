@@ -28,7 +28,7 @@
 ### Open Source Projects:
 
 <table>
-<tr> Deep Learning </tr> High-Performance Computing
+<tr> Deep Learning </tr> 
 <tr>
 
 |Title | Technologies|
@@ -47,7 +47,7 @@
 
 </tr>
     
-<tr> Deep Learning </tr> 
+<tr> High-Performance Computing </tr> 
 <tr>
 
 |Title | Technologies|
