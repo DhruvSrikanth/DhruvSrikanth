@@ -28,8 +28,8 @@
 ### Open Source Projects:
 
 <table>
-<tr><th> Deep Learning </th><th> High-Performance Computing </th></tr>
-<tr><td>
+<tr> Deep Learning </tr> High-Performance Computing
+<tr>
 
 |Title | Technologies|
 |--|--|
@@ -45,7 +45,10 @@
 
 
 
-</td><td>
+</tr>
+    
+<tr> Deep Learning </tr> 
+<tr>
 
 |Title | Technologies|
 |--|--|
@@ -60,40 +63,41 @@
 | [Image Editor via Convolutions (using Pipeline and BSP parallel schemes)](https://github.com/DhruvSrikanth/PipelineBSPImageEditor) | | 
 | [Twitter Application (using Producer-Consumer parallelism model)](https://github.com/DhruvSrikanth/TwitterGo) | | 
 
-</td></tr> </table>
+</tr> 
+    
+</table>
 
 <table>
-<tr><th> Machine Learning </th><th> Computer Systems </th></tr>
-<tr><td>
+    
+<tr> Machine Learning </tr>
+<tr>
+
    
 |Title | Technologies|
 |--|--|
 | [Boosting and Boostability (An understanding through Computational Learning Theory)](https://github.com/DhruvSrikanth/Boosting-Theory) | | 
 | [Financial Forecasting of TSLA (using sentiment analysis, feature engineering and RNNs)](https://github.com/DhruvSrikanth/TSLA-Financial-Forecasting) | |
 
-    
-
-
-</td><td>
+<tr> Computer Systems </tr> 
+<tr>
 
 |Title | Technologies|
 |--|--|
 | [Unix Shell](https://github.com/DhruvSrikanth/Unix-Like-Shell) | |
  
-</td></tr> </table>
-
-</td></tr> </table>
+</tr> 
+</table>
 
 <table>
-<tr><th> Games </th><th> Other </th></tr>
-<tr><td>
+<tr> Games </tr> 
+<tr>
    
 |Title | Technologies|
 |--|--|
 | [Climbing Mount Everest (A text-based adventure game)](https://github.com/DhruvSrikanth/ClimbingEverestGame) | |
 
-
-</td><td>
+<tr> Other </tr> 
+<tr>
 
 |Title | Technologies|
 |--|--|
@@ -101,6 +105,6 @@
 | [Superconductor Regression (Kaggle Challenge)](https://github.com/DhruvSrikanth/Superconductor-Regression-Kaggle-Challenge) | | 
 | [Canvas Web Application](https://github.com/DhruvSrikanth/Web-Dev-Project) | | 
 | [Blood Donations Database](https://github.com/DhruvSrikanth/Blood-Donations-DB) | | 
-
  
-</td></tr> </table>
+</tr>
+</table>
