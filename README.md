@@ -35,7 +35,7 @@
 |--|--|
 | [Denoising Diffusion Probabalistic Models (DDPMs)](https://github.com/DhruvSrikanth/DenoisingDiffusionProbabilisticModels) | | 
 | [2D-3D Single View Reconstruction](https://github.com/DhruvSrikanth/2D-3D-Single-View-Reconstruction) | | 
-| [pynn (Deep Learning Framework with pure NumPy Computation)] https://github.com/DhruvSrikanth/pynn) | |
+| [pynn (Deep Learning Framework with pure NumPy Computation)](https://github.com/DhruvSrikanth/pynn) | |
 | [VanillaGAN (Vanilla GAN experimentation library)](https://github.com/DhruvSrikanth/VanillaGAN) | | 
 | [ConditionalGAN (Conditional GAN experimentation library)](https://github.com/DhruvSrikanth/ConditionalGAN) | | 
 | [DCGAN (DC GAN experimentation library)](https://github.com/DhruvSrikanth/DCGAN) | | 
