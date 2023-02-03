@@ -15,17 +15,22 @@
     <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
 </a>
 <a href='https://dhruvsrikanth.github.io/' target="_blank">
-    <img alt='Website' src='https://img.shields.io/badge/Blogger-FF5722?style=flat&logoColor=white&&color=FFA500'>
+    <img alt='Website' src='https://img.shields.io/badge/Website-FF5722?style=flat&logoColor=white&&color=FFA500'>
 </a>
 
 <br/> 
 </p>
 
-* CS graduate student at The University of Chicago. 
+* CS graduate student at the University of Chicago, Research Assistant at the UChicago Booth Center for Applied Artificial Intelligence.  
 
 * Research at the UChicago Booth Center for Applied Artificial Intelligence.
 
 * Areas of interest: Deep Learning, Game Theory, Computational Learning Theory, High Performance Computing. Specifically, generative frameworks (e.g. GAN, VAE, DDPM), energy-based models (EBMs) and self-supervised learning (SSL).
+
+* Looking for roles in Software Engineering, AI, and Research at companies that take a practical engineering approach to innovation and impact.
+
+* What excites me about machine learning is its infancy and novelty. What drives me is the potential to create impactful solutions through data-
+centric algorithms and a little fun with math.
 
 
 ### Open Source Projects:
