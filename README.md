@@ -57,7 +57,7 @@
 | [Ray Tracing (using Monte-Carlo Algorithm on GPU Accelerators)](https://github.com/DhruvSrikanth/Monte-Carlo-Ray-Tracing) |
 | [Advection Diffusion Simulation (Multrithreaded, Shared Memory Parallelism, Distributed Memory Parallelism)](https://github.com/DhruvSrikanth/Advection-Diffusion-Simulation) |
 | [N Body Particle Simulation (Multrithreaded, Shared Memory Parallelism, Distributed Memory Parallelism)](https://github.com/DhruvSrikanth/N-Body-Simulation) |
-| [Distributed Poisson Solver (using Conjugate Gradient Optimization](https://github.com/DhruvSrikanth/Conjugate-Gradient-Simulation) |
+| [Distributed Poisson Solver (using Conjugate Gradient Optimization)](https://github.com/DhruvSrikanth/Conjugate-Gradient-Simulation) |
 | [Image Editor via Convolutions (using Work Stealing and Work Balancing parallel schemes)](https://github.com/DhruvSrikanth/WorkBalancingStealingImageEditor) |
 | [Sparse Linear Solver (using the Map Reduce parallelism scheme with Conjugate Gradient Optimization)](https://github.com/DhruvSrikanth/MapReduceSparseSolver) |
 | [Image Editor via Convolutions (using Pipeline and BSP parallel schemes)](https://github.com/DhruvSrikanth/PipelineBSPImageEditor) |
