@@ -15,7 +15,7 @@
     <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
 </a>
 <a href='https://dhruvsrikanth.github.io/' target="_blank">
-    <img alt='Website' src='https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white'>
+    <img alt='Website' src='https://img.shields.io/badge/Blogger-FF5722?style=flat&logoColor=white&&color=FFA500'>
 </a>
 
 <br/> 
