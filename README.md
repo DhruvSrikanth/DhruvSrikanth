@@ -6,10 +6,10 @@
 
 
 <a href="https://www.linkedin.com/in/dhruv-srikanth/">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin">
 </a>
 <a href="mailto:dhruvsrikanth@uchicago.edu">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white">
 </a>
 <a href='https://scholar.google.com/citations?hl=en&user=Dvh53xkAAAAJ' target="_blank">
     <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
