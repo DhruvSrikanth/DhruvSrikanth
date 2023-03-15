@@ -14,6 +14,11 @@
 <a href='https://scholar.google.com/citations?hl=en&user=Dvh53xkAAAAJ' target="_blank">
     <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
 </a>
+    
+<a href="https://twitter.com/DhruvSrikanth">
+    <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&label=Twitter&logoColor=white&style=social&url=https%3A%2F%2Ftwitter.com%2FDhruvSrikanth">
+</a>
+
 <a href='https://dhruvsrikanth.github.io/' target="_blank">
     <img alt='Website' src='https://img.shields.io/badge/Website-FF5722?style=flat&logoColor=white&&color=FFA500'>
 </a>
