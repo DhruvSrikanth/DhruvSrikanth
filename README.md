@@ -16,7 +16,7 @@
 </a>
     
 <a href="https://twitter.com/DhruvSrikanth">
-    <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&label=Twitter&logoColor=white&style=social&url=https%3A%2F%2Ftwitter.com%2FDhruvSrikanth">
+    <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FDhruvSrikanth">
 </a>
 
 <a href='https://dhruvsrikanth.github.io/' target="_blank">
