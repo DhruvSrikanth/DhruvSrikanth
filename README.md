@@ -26,13 +26,13 @@
 <br/> 
 </p>
 
-* CS graduate student at the University of Chicago, Research Assistant at the UChicago Booth Center for Applied Artificial Intelligence.  
+* Researcher at the Robotics Institute, at Carnegie Mellon University. 
 
-* Research at the UChicago Booth Center for Applied Artificial Intelligence.
+* Previous research at the UChicago Booth Center for Applied Artificial Intelligence. 
 
-* Areas of interest: Deep Learning, Game Theory, Computational Learning Theory, High Performance Computing. Specifically, generative frameworks (e.g. GAN, VAE, DDPM), energy-based models (EBMs) and self-supervised learning (SSL).
+* Areas of interest: Deep Learning, Game Theory, High Performance Computing. Specifically, leveraging interpretable techniques to develop signals for supervision in unsupervised learning, semi-supervised learning and self-supervised learning (SSL).
 
-* Looking for roles in Software Engineering, AI, and Research at companies that take a practical engineering approach to innovation and impact.
+* Interested in AI and Research at companies that take a practical engineering approach to innovation and impact.
 
 * What excites me about machine learning is its infancy and novelty. What drives me is the potential to create impactful solutions through data-
 centric algorithms and a little fun with math.
