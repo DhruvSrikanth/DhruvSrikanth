@@ -36,10 +36,6 @@
 
 * Interested in AI and Research at companies that take a practical engineering approach to innovation and impact.
 
-* What excites me about machine learning is its infancy and novelty. What drives me is the potential to create impactful solutions through data-
-centric algorithms and a little fun with math.
-
-
 ### Open Source Projects:
 
 <table>
