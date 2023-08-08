@@ -32,7 +32,7 @@
 
 * Areas of interest: Deep Learning, Game Theory, High Performance Computing. Specifically, leveraging interpretable techniques to develop signals for supervision in unsupervised learning, semi-supervised learning and self-supervised learning (SSL). I am also interested in representation learning and how it can enable sample efficiency in reinforcement learning and few-shot learning in meta learning.
 
-* Creator of AutoFeat and TorchRepL.
+* Creator of AutoFeat.
 
 * Interested in AI and Research at companies that take a practical engineering approach to innovation and impact.
 
