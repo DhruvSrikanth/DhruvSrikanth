@@ -44,6 +44,8 @@
 
 |Title |
 |--|
+| [AutonFeat; A high-performance Python package for automatic and distributed time series feature extraction and selection](https://github.com/autonlab/AutonFeat) | 
+| [tsfresh; A time series feature extraction package](https://github.com/blue-yonder/tsfresh) | 
 | [Denoising Diffusion Probabalistic Models (DDPMs)](https://github.com/DhruvSrikanth/DenoisingDiffusionProbabilisticModels) |
 | [2D-3D Single View Reconstruction](https://github.com/DhruvSrikanth/2D-3D-Single-View-Reconstruction) |
 | [pynn (Deep Learning Framework with pure NumPy Computation)](https://github.com/DhruvSrikanth/pynn) |
