@@ -26,15 +26,11 @@
 <br/> 
 </p>
 
-* Researcher at the Robotics Institute, at Carnegie Mellon University. 
-
-* Previous research at the UChicago Booth Center for Applied Artificial Intelligence. 
-
-* Areas of interest: Deep Learning, Game Theory, High Performance Computing. Specifically, leveraging interpretable techniques to develop signals for supervision in unsupervised learning, semi-supervised learning and self-supervised learning (SSL). I am also interested in representation learning and how it can enable sample efficiency in reinforcement learning and few-shot learning in meta learning.
-
+* Researcher at the Robotics Institute, Carnegie Mellon University. Previous research at the UChicago Booth Center for Applied Artificial Intelligence. I spent some time doing Applied ML and Deep Learning research as a few startups, GE Healthcare and GE Aerospace.
+* Areas of interest: Deep Learning, Game Theory, High Performance Computing. Specifically, leveraging interpretable techniques to develop signals for supervision in unsupervised learning, semi-supervised learning and self-supervised learning (SSL). I am also interested in representation learning and how it can enable better sample efficiency in reinforcement learning and few (or even zero!)-shot learning in meta learning.
 * Creator of [AutonFeat](https://autonlab.org/AutonFeat/).
-
-* Interested in AI and Research at companies that take a practical engineering approach to innovation and impact.
+* I like to apply my research to Healthcare, Climate and Industrial problems.
+* I am interested in AI and Research at companies that take a practical engineering approach to innovation and impact.
 
 ### Open Source Projects:
 
