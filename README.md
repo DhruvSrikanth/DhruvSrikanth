@@ -15,6 +15,9 @@
     <p style="font-size: 16px;">
         I like to apply my research to healthcare, climate, industrial, and scientific problems. I am interested in AI and research at companies that take a practical engineering approach to innovation and impact.
     </p>
+    <p style="font-size: 16px;">
+        Outside of research I enjoy being outdoors and playing sports like tennis, golf, football and volleyball.
+    </p>
     <p style="text-align: center;">
         <a href="mailto:dhruvsrikanth@uchicago.edu">
             <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white">
