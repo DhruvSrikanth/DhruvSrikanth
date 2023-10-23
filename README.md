@@ -45,8 +45,8 @@
     <h2>Open Source Contributions</h2> 
     <table style="border-collapse: collapse; width: 100%; border: 1px solid #dddddd; padding: 26px">
         <tr><th colspan="1">Deep Learning</th></tr>
-        <tr><td><a href="https://github.com/autonlab/AutonFeat">AutonFeat; A high-performance Python package for automatic and distributed time series feature extraction and selection</a></td></tr>
-        <tr><td><a href="https://github.com/blue-yonder/tsfresh">tsfresh; A time series feature extraction package</a></td></tr>
+        <tr><td><a href="https://github.com/autonlab/AutonFeat">AutonFeat: A high-performance Python package for automatic and distributed time series feature extraction and selection</a></td></tr>
+        <tr><td><a href="https://github.com/blue-yonder/tsfresh">tsfresh: A time series feature extraction package</a></td></tr>
         <tr><td><a href="https://github.com/DhruvSrikanth/DenoisingDiffusionProbabilisticModels">Denoising Diffusion Probabalistic Models (DDPMs)</a></td></tr>
         <tr><td><a href="https://github.com/DhruvSrikanth/2D-3D-Single-View-Reconstruction">2D-3D Single View Reconstruction</a></td></tr>
         <tr><td><a href="https://github.com/DhruvSrikanth/pynn">pynn (Deep Learning Framework with pure NumPy Computation)</a></td></tr>
