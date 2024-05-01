@@ -7,7 +7,7 @@
 
 <div style="padding: 20px;">
     <p style="font-size: 16px;">
-        I am a researcher at Weco AI, a startup in London building for devs. Previously I spent time at the <a href="https://autonlab.org">Auton Lab</a> at the <a href="">Robotics Institute</a> at <a href="">CMU</a>, where I worked on deep learning and algorithms for computer vision, robotics and time-series. Previously, I've worked on deep learning and algorithms for fairness, robustness and generalization in computer vision and 2D-3D single and multi-view reconstruction. I've spent some time doing applied machine learning and deep learning research at a few startups, GE Healthcare and GE Aerospace.
+        I am a researcher at <a href="https://www.weco.ai">Weco AI</a>, a startup in London building for devs. Previously I spent time at the <a href="https://autonlab.org">Auton Lab</a> at the <a href="">Robotics Institute</a> at <a href="">CMU</a>, where I worked on deep learning and algorithms for computer vision, robotics and time-series. Previously, I've worked on deep learning and algorithms for fairness, robustness and generalization in computer vision and 2D-3D single and multi-view reconstruction. I've spent some time doing applied machine learning and deep learning research at a few startups, GE Healthcare and GE Aerospace.
     </p>
     <p style="font-size: 16px;">
         Apart from AI research, I enjoy high-performance computing and all the kernel/thread/cluster programming (debugging lol) that comes with it. I've made a few games, simulations, and systems.
