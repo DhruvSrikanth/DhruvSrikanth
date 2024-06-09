@@ -7,7 +7,7 @@
 
 <div style="padding: 20px;">
     <p style="font-size: 16px;">
-        I am a researcher at <a href="https://www.weco.ai">Weco AI</a>, a startup in London building for devs. Previously I spent time at the <a href="https://autonlab.org">Auton Lab</a> at the <a href="">Robotics Institute</a> at <a href="">CMU</a>, where I worked on deep learning and algorithms for computer vision, robotics and time-series. Previously, I've worked on deep learning and algorithms for fairness, robustness and generalization in computer vision and 2D-3D single and multi-view reconstruction. I've spent some time doing applied machine learning and deep learning research at a few startups, GE Healthcare and GE Aerospace.
+        I'm a researcher at <a href="https://www.weco.ai">Weco AI</a>, building LLM and VLM agents for code generation and problem solving. Previously I spent time at the <a href="https://autonlab.org">Auton Lab</a> at the <a href="">Robotics Institute</a> at <a href="">CMU</a>, where I worked on deep learning algorithms for vision, robotics and time-series. I also spend my free time working on AI safety, specifically alignment and fairness in computer vision. Prior to this, I worked on efficient deep learning for 2D-3D single-view reconstruction. In the past, I've spent some time doing applied machine learning and deep learning research at a few startups and large companies.
     </p>
     <p style="font-size: 16px;">
         Apart from AI research, I enjoy high-performance computing and all the kernel/thread/cluster programming (debugging lol) that comes with it. I've made a few games, simulations, and systems.
@@ -16,7 +16,7 @@
         I like to apply my research to healthcare, climate, industrial, and scientific problems. I am interested in AI and research at companies that take a practical engineering approach to innovation and impact.
     </p>
     <p style="font-size: 16px;">
-        Outside of research I enjoy being outdoors and playing sports like tennis, golf and football.
+        Outside of research I enjoy being spending time outdoors by hiking, surfing and playing golf.
     </p>
     <p style="text-align: center;">
         <a href="mailto:dhruvsrikanth@uchicago.edu">
