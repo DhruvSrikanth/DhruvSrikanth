@@ -5,14 +5,14 @@
 </div>
 
 <div style="padding: 20px;">
-    <p style="font-size: 18px;">
-        I'm a <strong>Founding Researcher</strong> at <a href="https://www.weco.ai">Weco AI</a>, building AI agents for research engineers and scientists (such as <a href="https://github.com/wecoai/aideml">aideml</a>). Previously, I was a researcher at the <a href="https://www.ri.cmu.edu/">Robotics Institute</a> at <strong>CMU</strong> working on large multimodal models, robotics and time-series for healthcare. I also spent time at <a href="https://www.ttic.edu/">TTIC</a> and <a href="https://www.chicagobooth.edu/research/center-for-applied-artificial-intelligence">UChicago Booth</a> researching fairness alignment for deep learning models.
+    <p style="font-size: 16px;">
+        I'm a Founding Engineer at <a href="https://www.weco.ai">Weco AI</a>, building self-improving AI agents for engineers and scientists (such as <a href="https://github.com/wecoai/aideml">aideml</a>, <a href="https://arxiv.org/abs/2502.13138">AIDE</a>). My work has been used by OpenAI (<a href="https://arxiv.org/abs/2410.07095">MLE-Bench</a>, <a href="https://cdn.openai.com/gpt-4-5-system-card-2272025.pdf">GPT-4.5</a>, <a href="https://arxiv.org/abs/2412.16720">o1</a>, <a href="https://cdn.openai.com/o3-mini-system-card-feb10.pdf">o3-mini</a>), Meta, Microsoft (<a href="https://arxiv.org/pdf/2505.14738">R&D-Agent</a>), Amazon (<a href="https://arxiv.org/pdf/2505.13941">MLZero</a>), Sakana AI (<a href="https://arxiv.org/pdf/2504.08066">AI Scientist-v2</a>), METR (<a href="https://metr.org/AI_R_D_Evaluation_Report.pdf">RE-Bench</a>, <a href="https://arxiv.org/pdf/2503.14499">Measuring AI Ability to Complete Long Tasks</a>), UK AI Security Institute (<a href="https://github.com/UKGovernmentBEIS/inspect_ai/pull/1588">Inspect AI</a>), CMU (<a href="https://arxiv.org/pdf/2505.13291">TimeSeriesGym</a>, <a href="https://arxiv.org/pdf/2505.08783">CodePDE</a>, <a href="https://arxiv.org/pdf/2505.18223">IDA-Bench</a>), Stanford (<a href="https://arxiv.org/pdf/2505.07782">MLE-Dojo</a>), UC Berkeley (<a href="https://arxiv.org/pdf/2505.18223">IDA-Bench</a>) and more.
     </p>
     <p style="font-size: 16px;">
-        My research focuses on learning fair and useful representations efficiently in the absence of supervision. I enjoy building high-performance implementations and have a passion for applying AI to healthcare, climate, industrial, and scientific problems.
+        Prior to this, I was a researcher at the <a href="https://www.ri.cmu.edu/">Robotics Institute</a> at Carnegie Mellon University working on large multimodal models, robotics and time-series for healthcare (such as <a href="https://github.com/autonlab/AutonFeat">AutonFeat</a>, <a href="https://ieeexplore.ieee.org/abstract/document/10801749">BIFURC</a>). I also spent time at <a href="https://www.ttic.edu/">TTIC</a> and <a href="https://www.chicagobooth.edu/research/center-for-applied-artificial-intelligence">UChicago Booth</a> working on fairness and alignment for vision models (such as <a href="https://arxiv.org/abs/2404.11819">ASAC Guided Curriculum Learning</a>).
     </p>
     <p style="font-size: 16px;">
-        Outside of research, I enjoy spending time outdoors by hiking, surfing, and playing golf.
+        I enjoy building high-performance implementations of my work and applying AI to healthcare, climate, scientific problems. Outside of research, I enjoy spending time outdoors hiking, surfing, and playing golf.
     </p>
     <p style="text-align: center;">
         <a href="mailto:dhruvsrikanth@uchicago.edu">
