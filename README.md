@@ -4,19 +4,15 @@
     </a>
 </div>
 
-
 <div style="padding: 20px;">
-    <p style="font-size: 16px;">
-        I'm a researcher at <a href="https://www.weco.ai">Weco AI</a>, building LLM and VLM agents for code generation and problem solving. Previously I spent time at the <a href="https://autonlab.org">Auton Lab</a> at the <a href="">Robotics Institute</a> at <a href="">CMU</a>, where I worked on deep learning algorithms for vision, robotics and time-series. I also spend my free time working on AI safety, specifically alignment and fairness in computer vision. Prior to this, I worked on efficient deep learning for 2D-3D single-view reconstruction. In the past, I've spent some time doing applied machine learning and deep learning research at a few startups and large companies.
+    <p style="font-size: 18px;">
+        I'm a <strong>Founding Researcher</strong> at <a href="https://www.weco.ai">Weco AI</a>, building AI agents for research engineers and scientists (such as <a href="https://github.com/wecoai/aideml">aideml</a>). Previously, I was a researcher at the <a href="https://www.ri.cmu.edu/">Robotics Institute</a> at <strong>CMU</strong> working on large multimodal models, robotics and time-series for healthcare. I also spent time at <a href="https://www.ttic.edu/">TTIC</a> and <a href="https://www.chicagobooth.edu/research/center-for-applied-artificial-intelligence">UChicago Booth</a> researching fairness alignment for deep learning models.
     </p>
     <p style="font-size: 16px;">
-        Apart from AI research, I enjoy high-performance computing and all the kernel/thread/cluster programming (debugging lol) that comes with it. I've made a few games, simulations, and systems.
+        My research focuses on learning fair and useful representations efficiently in the absence of supervision. I enjoy building high-performance implementations and have a passion for applying AI to healthcare, climate, industrial, and scientific problems.
     </p>
     <p style="font-size: 16px;">
-        I like to apply my research to healthcare, climate, industrial, and scientific problems. I am interested in AI and research at companies that take a practical engineering approach to innovation and impact.
-    </p>
-    <p style="font-size: 16px;">
-        Outside of research I enjoy being spending time outdoors by hiking, surfing and playing golf.
+        Outside of research, I enjoy spending time outdoors by hiking, surfing, and playing golf.
     </p>
     <p style="text-align: center;">
         <a href="mailto:dhruvsrikanth@uchicago.edu">
@@ -42,53 +38,52 @@
 </div>
 
 <div style="padding: 20px;">
-    <h2>Open Source Contributions</h2> 
-    <table style="border-collapse: collapse; width: 100%; border: 1px solid #dddddd; padding: 26px">
-        <tr><th colspan="1">Deep Learning</th></tr>
-        <tr><td><a href="https://github.com/autonlab/AutonFeat">AutonFeat: A high-performance Python package for automatic and distributed time series feature extraction and selection</a></td></tr>
-        <tr><td><a href="https://github.com/blue-yonder/tsfresh">tsfresh: A time series feature extraction package</a></td></tr>
-        <tr><td><a href="https://github.com/DhruvSrikanth/DenoisingDiffusionProbabilisticModels">Denoising Diffusion Probabalistic Models (DDPMs)</a></td></tr>
-        <tr><td><a href="https://github.com/DhruvSrikanth/2D-3D-Single-View-Reconstruction">2D-3D Single View Reconstruction</a></td></tr>
-        <tr><td><a href="https://github.com/DhruvSrikanth/pynn">pynn (Deep Learning Framework with pure NumPy Computation)</a></td></tr>
-        <tr><td><a href="https://github.com/DhruvSrikanth/VanillaGAN">VanillaGAN (Vanilla GAN experimentation library)</a></td></tr>
-        <tr><td><a href="https://github.com/DhruvSrikanth/ConditionalGAN">ConditionalGAN (Conditional GAN experimentation library)</a></td></tr>
-        <tr><td><a href="https://github.com/DhruvSrikanth/DCGAN">DCGAN (DC GAN experimentation library)</a></td></tr>
-        <tr><td><a href="https://github.com/DhruvSrikanth/PSNRGAN">PSNRGAN (Contrastive PSNR GAN experimentation library)</a></td></tr>
-        <tr><td><a href="https://github.com/DhruvSrikanth/MonoDepth">Monocular Depth Estimation</a></td></tr>
-        <tr><td><a href="https://github.com/DhruvSrikanth/NeuralArtisticRecreation-CLI-Tool">Neural Artistic Recreation (A CLI for Neural Style Transfer)</a></td></tr>
-    </table>
-    <table style="border-collapse: collapse; width: 100%; border: 1px solid #dddddd;">
-        <tr><th colspan="1">High-Performance Computing</th></tr>
-        <tr><td><a href="https://github.com/DhruvSrikanth/CUDANN">CUDANN (Distributed Deep Learning Framework accelerated on NVIDIA GPUs)</a></td></tr>
-        <tr><td><a href="https://github.com/DhruvSrikanth/FastConv">FastConv (Multithreaded GPU CUDA kernels for Convolution)</a></td></tr>
-        <tr><td><a href="https://github.com/DhruvSrikanth/Monte-Carlo-Ray-Tracing">Ray Tracing (using Monte-Carlo Algorithm on GPU Accelerators)</a></td></tr>
-        <tr><td><a href="https://github.com/DhruvSrikanth/Advection-Diffusion-Simulation">Advection Diffusion Simulation (Multithreaded, Shared Memory Parallelism, Distributed Memory Parallelism)</a></td></tr>
-        <tr><td><a href="https://github.com/DhruvSrikanth/N-Body-Simulation">N Body Particle Simulation (Multithreaded, Shared Memory Parallelism, Distributed Memory Parallelism)</a></td></tr>
-        <tr><td><a href="https://github.com/DhruvSrikanth/Conjugate-Gradient-Simulation">Distributed Poisson Solver (using Conjugate Gradient Optimization)</a></td></tr>
-        <tr><td><a href="https://github.com/DhruvSrikanth/WorkBalancingStealingImageEditor">Image Editor via Convolutions (using Work Stealing and Work Balancing parallel schemes)</a></td></tr>
-        <tr><td><a href="https://github.com/DhruvSrikanth/MapReduceSparseSolver">Sparse Linear Solver (using the Map Reduce parallelism scheme with Conjugate Gradient Optimization)</a></td></tr>
-        <tr><td><a href="https://github.com/DhruvSrikanth/PipelineBSPImageEditor">Image Editor via Convolutions (using Pipeline and BSP parallel schemes)</a></td></tr>
-        <tr><td><a href="https://github.com/DhruvSrikanth/TwitterGo">Twitter Application (using Producer-Consumer parallelism model)</a></td></tr>
-    </table>
-    <table style="border-collapse: collapse; width: 100%; border: 1px solid #dddddd;">
-        <tr><th colspan="1">Machine Learning</th></tr>
-        <tr><td><a href="https://github.com/DhruvSrikanth/Boosting-Theory">Boosting and Boostability (An understanding through Computational Learning Theory)</a></td></tr>
-        <tr><td><a href="https://github.com/DhruvSrikanth/TSLA-Financial-Forecasting">Financial Forecasting of TSLA (using sentiment analysis, feature engineering, and RNNs)</a></td></tr>
-    </table>
-    <table style="border-collapse: collapse; width: 100%; border: 1px solid #dddddd;">
-        <tr><th colspan="1">Computer Systems</th></tr>
-        <tr><td><a href="https://github.com/DhruvSrikanth/GoLLUM">GoLLUM - A GoLang Compiler</a></td></tr>
-        <tr><td><a href="https://github.com/DhruvSrikanth/Unix-Like-Shell">Unix Shell</a></td></tr>
-    </table>
-    <table style="border-collapse: collapse; width: 100%; border: 1px solid #dddddd;">
-        <tr><th colspan="1">Games</th></tr>
-        <tr><td><a href="https://github.com/DhruvSrikanth/ClimbingEverestGame">Climbing Mount Everest (A text-based adventure game)</a></td></tr>
-    </table>
-    <table style="border-collapse: collapse; width: 100%; border: 1px solid #dddddd;">
-        <tr><th colspan="1">Other</th></tr>
-        <tr><td><a href="https://github.com/DhruvSrikanth/Algorithms">Useful Algorithms</a></td></tr>
-        <tr><td><a href="https://github.com/DhruvSrikanth/Superconductor-Regression-Kaggle-Challenge">Superconductor Regression (Kaggle Challenge)</a></td></tr>
-        <tr><td><a href="https://github.com/DhruvSrikanth/Web-Dev-Project">Canvas Web Application</a></td></tr>
-        <tr><td><a href="https://github.com/DhruvSrikanth/Blood-Donations-DB">Blood Donations Database</a></td></tr>
-    </table>
+    <h2>Open Source & Publications</h2> 
+
+### 🧠 Deep Learning & AI
+- AIDE: AI-Driven Exploration in the Space of Code [[code]](https://github.com/WecoAI/aideml) [[paper]](https://arxiv.org/abs/2502.13138)
+- Utilizing Adversarial Examples for Bias Mitigation and Accuracy Enhancement [[paper]](https://arxiv.org/abs/2404.11819)
+- AutonFeat: A high-performance Python package for automatic and distributed time series feature extraction and selection [[code]](https://github.com/autonlab/AutonFeat) [[docs]](https://autonlab.org/AutonFeat/)
+- tsfresh: A time series feature extraction package [[code]](https://github.com/blue-yonder/tsfresh) [[docs]](https://tsfresh.readthedocs.io/)
+- Denoising Diffusion Probabilistic Models (DDPMs) [[code]](https://github.com/DhruvSrikanth/DenoisingDiffusionProbabilisticModels)
+- Resource-conscious high-performance models for 2D-to-3D single-view reconstruction [[code]](https://github.com/DhruvSrikanth/2D-3D-Single-View-Reconstruction) [[paper]](https://ieeexplore.ieee.org/document/9707193)
+- pynn (Deep Learning Framework with pure NumPy Computation) [[code]](https://github.com/DhruvSrikanth/pynn)
+- VanillaGAN (Vanilla GAN experimentation library) [[code]](https://github.com/DhruvSrikanth/VanillaGAN)
+- ConditionalGAN (Conditional GAN experimentation library) [[code]](https://github.com/DhruvSrikanth/ConditionalGAN)
+- DCGAN (DC GAN experimentation library) [[code]](https://github.com/DhruvSrikanth/DCGAN)
+- PSNRGAN (Contrastive PSNR GAN experimentation library) [[code]](https://github.com/DhruvSrikanth/PSNRGAN)
+- Monocular Depth Estimation [[code]](https://github.com/DhruvSrikanth/MonoDepth)
+- Neural Artistic Recreation (A CLI for Neural Style Transfer) [[code]](https://github.com/DhruvSrikanth/NeuralArtisticRecreation-CLI-Tool)
+
+### 🏥 Robotics & Healthcare
+- Bifurcation identification for ultrasound-driven robotic cannulation [[paper]](https://ieeexplore.ieee.org/document/10802043)
+
+### ⚡ High-Performance Computing
+- CUDANN (Distributed Deep Learning Framework accelerated on NVIDIA GPUs) [[code]](https://github.com/DhruvSrikanth/CUDANN)
+- FastConv (Multithreaded GPU CUDA kernels for Convolution) [[code]](https://github.com/DhruvSrikanth/FastConv)
+- Ray Tracing (using Monte-Carlo Algorithm on GPU Accelerators) [[code]](https://github.com/DhruvSrikanth/Monte-Carlo-Ray-Tracing)
+- Advection Diffusion Simulation (Multithreaded, Shared Memory Parallelism, Distributed Memory Parallelism) [[code]](https://github.com/DhruvSrikanth/Advection-Diffusion-Simulation)
+- N Body Particle Simulation (Multithreaded, Shared Memory Parallelism, Distributed Memory Parallelism) [[code]](https://github.com/DhruvSrikanth/N-Body-Simulation)
+- Distributed Poisson Solver (using Conjugate Gradient Optimization) [[code]](https://github.com/DhruvSrikanth/Conjugate-Gradient-Simulation)
+- Image Editor via Convolutions (using Work Stealing and Work Balancing parallel schemes) [[code]](https://github.com/DhruvSrikanth/WorkBalancingStealingImageEditor)
+- Sparse Linear Solver (using the Map Reduce parallelism scheme with Conjugate Gradient Optimization) [[code]](https://github.com/DhruvSrikanth/MapReduceSparseSolver)
+- Image Editor via Convolutions (using Pipeline and BSP parallel schemes) [[code]](https://github.com/DhruvSrikanth/PipelineBSPImageEditor)
+- Twitter Application (using Producer-Consumer parallelism model) [[code]](https://github.com/DhruvSrikanth/TwitterGo)
+
+### 🤖 Machine Learning
+- Boosting and Boostability (An understanding through Computational Learning Theory) [[code]](https://github.com/DhruvSrikanth/Boosting-Theory)
+- Financial Forecasting of TSLA (using sentiment analysis, feature engineering, and RNNs) [[code]](https://github.com/DhruvSrikanth/TSLA-Financial-Forecasting)
+
+### 💻 Computer Systems
+- GoLLUM - A GoLang Compiler [[code]](https://github.com/DhruvSrikanth/GoLLUM)
+- Unix Shell [[code]](https://github.com/DhruvSrikanth/Unix-Like-Shell)
+
+### 🎮 Games
+- Climbing Mount Everest (A text-based adventure game) [[code]](https://github.com/DhruvSrikanth/ClimbingEverestGame)
+
+### 📚 Other
+- Useful Algorithms [[code]](https://github.com/DhruvSrikanth/Algorithms)
+- Superconductor Regression (Kaggle Challenge) [[code]](https://github.com/DhruvSrikanth/Superconductor-Regression-Kaggle-Challenge)
+- Canvas Web Application [[code]](https://github.com/DhruvSrikanth/Web-Dev-Project)
+- Blood Donations Database [[code]](https://github.com/DhruvSrikanth/Blood-Donations-DB)
 </div>
