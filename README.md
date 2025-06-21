@@ -41,26 +41,26 @@
     <h2>Open Source & Publications</h2> 
 
 ### 🧠 Deep Learning & AI
-- AIDE: AI-Driven Exploration in the Space of Code [[code]](https://github.com/WecoAI/aideml) [[readme]](https://github.com/WecoAI/aideml/blob/main/README.md) [[paper]](https://arxiv.org/abs/2502.13138)
+- AIDE: AI-Driven Exploration in the Space of Code [[code]](https://github.com/WecoAI/aideml) [[readme]](https://github.com/WecoAI/aideml/blob/main/README.md) [[project]](https://www.aide.ml/) [[paper]](https://arxiv.org/abs/2502.13138)
 - Utilizing Adversarial Examples for Bias Mitigation and Accuracy Enhancement [[paper]](https://arxiv.org/abs/2404.11819)
 - AutonFeat: A high-performance Python package for automatic and distributed time series feature extraction and selection [[code]](https://github.com/autonlab/AutonFeat) [[readme]](https://github.com/autonlab/AutonFeat/blob/master/README.md) [[docs]](https://autonlab.org/AutonFeat/)
-- tsfresh: A time series feature extraction package [[code]](https://github.com/blue-yonder/tsfresh) [[readme]](https://github.com/blue-yonder/tsfresh/blob/main/README.rst) [[docs]](https://tsfresh.readthedocs.io/)
-- Denoising Diffusion Probabilistic Models (DDPMs) [[code]](https://github.com/DhruvSrikanth/DenoisingDiffusionProbabilisticModels) [[readme]](https://github.com/DhruvSrikanth/DenoisingDiffusionProbabilisticModels/blob/master/README.md) [[demo]](https://github.com/DhruvSrikanth/DenoisingDiffusionProbabilisticModels/blob/master/experiment.ipynb) [[paper]](https://github.com/DhruvSrikanth/DenoisingDiffusionProbabilisticModels/blob/master/Noise_Schedulers_in_DDPMs.pdf)
+- tsfresh: A time series feature extraction package [[code]](https://github.com/blue-yonder/tsfresh) [[readme]](https://github.com/blue-yonder/tsfresh/blob/main/README.md) [[docs]](https://tsfresh.readthedocs.io/)
+- Denoising Diffusion Probabilistic Models (DDPMs) [[code]](https://github.com/DhruvSrikanth/DenoisingDiffusionProbabilisticModels) [[paper]](https://github.com/DhruvSrikanth/DenoisingDiffusionProbabilisticModels/blob/master/Noise_Schedulers_in_DDPMs.pdf)
 - Resource-conscious high-performance models for 2D-to-3D single-view reconstruction [[code]](https://github.com/DhruvSrikanth/2D-3D-Single-View-Reconstruction) [[readme]](https://github.com/DhruvSrikanth/2D-3D-Single-View-Reconstruction/blob/master/README.md) [[paper]](https://ieeexplore.ieee.org/document/9707193)
-- pynn (Deep Learning Framework with pure NumPy Computation) [[code]](https://github.com/DhruvSrikanth/pynn) [[readme]](https://github.com/DhruvSrikanth/pynn/blob/master/README.md) [[docs]](https://github.com/DhruvSrikanth/pynn/tree/master/pynn_docs) [[demo]](https://github.com/DhruvSrikanth/pynn/blob/master/running_example.ipynb)
+- pynn (Deep Learning Framework with pure NumPy Computation) [[code]](https://github.com/DhruvSrikanth/pynn) [[readme]](https://github.com/DhruvSrikanth/pynn/blob/master/README.md) [[demo]](https://github.com/DhruvSrikanth/pynn/blob/master/running_example.ipynb)
 - VanillaGAN (Vanilla GAN experimentation library) [[code]](https://github.com/DhruvSrikanth/VanillaGAN) [[readme]](https://github.com/DhruvSrikanth/VanillaGAN/blob/master/README.md)
 - ConditionalGAN (Conditional GAN experimentation library) [[code]](https://github.com/DhruvSrikanth/ConditionalGAN) [[readme]](https://github.com/DhruvSrikanth/ConditionalGAN/blob/master/README.md)
 - DCGAN (DC GAN experimentation library) [[code]](https://github.com/DhruvSrikanth/DCGAN) [[readme]](https://github.com/DhruvSrikanth/DCGAN/blob/master/README.md)
 - PSNRGAN (Contrastive PSNR GAN experimentation library) [[code]](https://github.com/DhruvSrikanth/PSNRGAN) [[readme]](https://github.com/DhruvSrikanth/PSNRGAN/blob/master/README.md)
-- Monocular Depth Estimation [[code]](https://github.com/DhruvSrikanth/MonoDepth) [[readme]](https://github.com/DhruvSrikanth/MonoDepth/blob/master/README.md)
-- Neural Artistic Recreation (A CLI for Neural Style Transfer) [[code]](https://github.com/DhruvSrikanth/NeuralArtisticRecreation-CLI-Tool) [[readme]](https://github.com/DhruvSrikanth/NeuralArtisticRecreation-CLI-Tool/blob/master/README.md)
+- Monocular Depth Estimation [[code]](https://github.com/DhruvSrikanth/MonoDepth)
+- Neural Artistic Recreation (A CLI for Neural Style Transfer) [[code]](https://github.com/DhruvSrikanth/NeuralArtisticRecreation-CLI-Tool) [[readme]](https://github.com/DhruvSrikanth/NeuralArtisticRecreation-CLI-Tool/blob/master/README.md) [[demo]](https://www.youtube.com/watch?v=AJCFO6ot4B8)
 
 ### 🏥 Robotics & Healthcare
-- Bifurcation identification for ultrasound-driven robotic cannulation [[paper]](https://ieeexplore.ieee.org/document/10802043)
+- Bifurcation identification for ultrasound-driven robotic cannulation (Oral) [[paper]](https://ieeexplore.ieee.org/abstract/document/10801749)
 
 ### ⚡ High-Performance Computing
 - CUDANN (Distributed Deep Learning Framework accelerated on NVIDIA GPUs) [[code]](https://github.com/DhruvSrikanth/CUDANN) [[readme]](https://github.com/DhruvSrikanth/CUDANN/blob/master/README.md)
-- FastConv (Multithreaded GPU CUDA kernels for Convolution) [[code]](https://github.com/DhruvSrikanth/FastConv) [[readme]](https://github.com/DhruvSrikanth/FastConv/blob/master/README.md)
+- FastConv (Multithreaded GPU CUDA kernels for Convolution) [[code]](https://github.com/DhruvSrikanth/FastConv)
 - Ray Tracing (using Monte-Carlo Algorithm on GPU Accelerators) [[code]](https://github.com/DhruvSrikanth/Monte-Carlo-Ray-Tracing) [[readme]](https://github.com/DhruvSrikanth/Monte-Carlo-Ray-Tracing/blob/master/README.md)
 - Advection Diffusion Simulation (Multithreaded, Shared Memory Parallelism, Distributed Memory Parallelism) [[code]](https://github.com/DhruvSrikanth/Advection-Diffusion-Simulation) [[readme]](https://github.com/DhruvSrikanth/Advection-Diffusion-Simulation/blob/master/README.md)
 - N Body Particle Simulation (Multithreaded, Shared Memory Parallelism, Distributed Memory Parallelism) [[code]](https://github.com/DhruvSrikanth/N-Body-Simulation) [[readme]](https://github.com/DhruvSrikanth/N-Body-Simulation/blob/master/README.md)
@@ -71,8 +71,8 @@
 - Twitter Application (using Producer-Consumer parallelism model) [[code]](https://github.com/DhruvSrikanth/TwitterGo) [[readme]](https://github.com/DhruvSrikanth/TwitterGo/blob/master/README.md)
 
 ### 🤖 Machine Learning
-- Boosting and Boostability (An understanding through Computational Learning Theory) [[code]](https://github.com/DhruvSrikanth/Boosting-Theory) [[readme]](https://github.com/DhruvSrikanth/Boosting-Theory/blob/master/README.md) [[report]](https://github.com/DhruvSrikanth/Boosting-Theory/blob/master/TTIC_Machine_Learning_Course_Project_Dhruv_Srikanth.pdf)
-- Financial Forecasting of TSLA (using sentiment analysis, feature engineering, and RNNs) [[code]](https://github.com/DhruvSrikanth/TSLA-Financial-Forecasting) [[readme]](https://github.com/DhruvSrikanth/TSLA-Financial-Forecasting/blob/master/README.md)
+- Boosting and Boostability (An understanding through Computational Learning Theory) [[code]](https://github.com/DhruvSrikanth/Boosting-Theory) [[paper]](https://github.com/DhruvSrikanth/Boosting-Theory/blob/master/Boosting_and_Boostability.pdf)
+- Financial Forecasting of TSLA (using sentiment analysis, feature engineering, and RNNs) [[code]](https://github.com/DhruvSrikanth/TSLA-Financial-Forecasting) [[readme]](https://github.com/DhruvSrikanth/TSLA-Financial-Forecasting/blob/master/README.md) [[report]](https://github.com/DhruvSrikanth/TSLA-Financial-Forecasting/blob/master/Report/Applied%20Data%20Analysis%20Project%20Final%20Report.pdf)
 
 ### 💻 Computer Systems
 - GoLLUM - A GoLang Compiler [[code]](https://github.com/DhruvSrikanth/GoLLUM) [[readme]](https://github.com/DhruvSrikanth/GoLLUM/blob/main/README.md) [[docs]](https://github.com/DhruvSrikanth/GoLLUM/blob/main/compiler_docs.md)
@@ -83,7 +83,7 @@
 
 ### 📚 Other
 - Useful Algorithms [[code]](https://github.com/DhruvSrikanth/Algorithms) [[readme]](https://github.com/DhruvSrikanth/Algorithms/blob/master/README.md)
-- Superconductor Regression (Kaggle Challenge) [[code]](https://github.com/DhruvSrikanth/Superconductor-Regression-Kaggle-Challenge) [[readme]](https://github.com/DhruvSrikanth/Superconductor-Regression-Kaggle-Challenge/blob/master/README.md)
+- Superconductor Regression (Kaggle Challenge) [[code]](https://github.com/DhruvSrikanth/Superconductor-Regression-Kaggle-Challenge) [[report]](https://github.com/DhruvSrikanth/Superconductor-Regression-Kaggle-Challenge/blob/master/Problem%20Approach.pdf)
 - Canvas Web Application [[code]](https://github.com/DhruvSrikanth/Web-Dev-Project) [[readme]](https://github.com/DhruvSrikanth/Web-Dev-Project/blob/master/README.md)
-- Blood Donations Database [[code]](https://github.com/DhruvSrikanth/Blood-Donations-DB) [[readme]](https://github.com/DhruvSrikanth/Blood-Donations-DB/blob/master/README.md)
+- Blood Donations Database [[code]](https://github.com/DhruvSrikanth/Blood-Donations-DB) [[readme]](https://github.com/DhruvSrikanth/Blood-Donations-DB/blob/master/README.txt)
 </div>
