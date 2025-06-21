@@ -59,6 +59,7 @@
 - Bifurcation identification for ultrasound-driven robotic cannulation (Oral) [[paper]](https://ieeexplore.ieee.org/abstract/document/10801749)
 
 ### ⚡ High-Performance Computing
+- HuggingFace Text Generation Inference [[code]](https://github.com/huggingface/text-generation-inference) [[readme]](https://github.com/huggingface/text-generation-inference/blob/main/README.md) [[docs]](https://huggingface.co/docs/text-generation-inference/index)
 - CUDANN (Distributed Deep Learning Framework accelerated on NVIDIA GPUs) [[code]](https://github.com/DhruvSrikanth/CUDANN) [[readme]](https://github.com/DhruvSrikanth/CUDANN/blob/master/README.md)
 - FastConv (Multithreaded GPU CUDA kernels for Convolution) [[code]](https://github.com/DhruvSrikanth/FastConv)
 - Ray Tracing (using Monte-Carlo Algorithm on GPU Accelerators) [[code]](https://github.com/DhruvSrikanth/Monte-Carlo-Ray-Tracing) [[readme]](https://github.com/DhruvSrikanth/Monte-Carlo-Ray-Tracing/blob/master/README.md)
